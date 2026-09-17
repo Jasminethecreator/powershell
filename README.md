@@ -4,7 +4,7 @@
 Learn the basics of PowerShell and its role in IT administration.
 
 ## Scenario
-This lab simulated using PowerShell as an IT support technician to quickly gather system information — checking running services, system details, and active tasks on a Windows machine.
+This lab simulated using PowerShell as an IT support technician to quickly gather system information checking running services, system details, and active tasks on a Windows machine.
 
 ## Tasks Completed
 Used Get-Service to check the status of running services.
